@@ -12,3 +12,12 @@ This is a simple and interactive To-Do List console application built using C#. 
 To run this project, you need:
 - .NET SDK** (for development)
 - C# Console Application** (Windows, Linux, macOS supported)
+
+## License
+This project is licensed under the MIT License.
+
+### Show Your Support
+If you like this project, give it a ⭐ on GitHub! Your support is much appreciated. 😊
+
+## Contributors
+Vadym Makohon
