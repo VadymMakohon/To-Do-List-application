@@ -22,6 +22,7 @@ class Program
             string choice = Console.ReadLine();
 
             switch (choice)
+                
             {
                 case "1": AddTask(); break;
                 case "2": RemoveTask(); break;
