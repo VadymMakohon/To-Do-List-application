@@ -1,0 +1,15 @@
+/Users/vadymmakohon/Desktop/To-Do-List-application/bin/Debug/net9.0/To-Do-List-application
+/Users/vadymmakohon/Desktop/To-Do-List-application/bin/Debug/net9.0/To-Do-List-application.deps.json
+/Users/vadymmakohon/Desktop/To-Do-List-application/bin/Debug/net9.0/To-Do-List-application.runtimeconfig.json
+/Users/vadymmakohon/Desktop/To-Do-List-application/bin/Debug/net9.0/To-Do-List-application.dll
+/Users/vadymmakohon/Desktop/To-Do-List-application/bin/Debug/net9.0/To-Do-List-application.pdb
+/Users/vadymmakohon/Desktop/To-Do-List-application/obj/Debug/net9.0/To-Do-List-application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vadymmakohon/Desktop/To-Do-List-application/obj/Debug/net9.0/To-Do-List-application.AssemblyInfoInputs.cache
+/Users/vadymmakohon/Desktop/To-Do-List-application/obj/Debug/net9.0/To-Do-List-application.AssemblyInfo.cs
+/Users/vadymmakohon/Desktop/To-Do-List-application/obj/Debug/net9.0/To-Do-List-application.csproj.CoreCompileInputs.cache
+/Users/vadymmakohon/Desktop/To-Do-List-application/obj/Debug/net9.0/To-Do-List-application.sourcelink.json
+/Users/vadymmakohon/Desktop/To-Do-List-application/obj/Debug/net9.0/To-Do-List-application.dll
+/Users/vadymmakohon/Desktop/To-Do-List-application/obj/Debug/net9.0/refint/To-Do-List-application.dll
+/Users/vadymmakohon/Desktop/To-Do-List-application/obj/Debug/net9.0/To-Do-List-application.pdb
+/Users/vadymmakohon/Desktop/To-Do-List-application/obj/Debug/net9.0/To-Do-List-application.genruntimeconfig.cache
+/Users/vadymmakohon/Desktop/To-Do-List-application/obj/Debug/net9.0/ref/To-Do-List-application.dll
