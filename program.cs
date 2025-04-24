@@ -58,6 +58,7 @@ class Program
 
     static void RemoveTask()
     {
+        
         ListTasks();
         if (tasks.Count == 0)
         {
